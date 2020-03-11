@@ -1,0 +1,2 @@
+# hi
+A starting hacker
